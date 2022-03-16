@@ -11,11 +11,11 @@ laist,https://laist.com/,LAist,,,,America/Los_Angeles,socal
 sdut,https://www.sandiegouniontribune.com/,San Diego Union Tribune,,,,America/Los_Angeles,socal
 ft-uk,https://ft.com/?edition=uk,Financial Times,,,,Europe/London,uk-national-newspapers
 guardian-uk,https://theguardian.com/uk,The Guardian,,,,Europe/London,uk-national-newspapers
-ABQJournal,https://www.abqjournal.com/,Albuquerque Journal,,2000,,America/Denver,newmexico
-abqbizfirst,https://www.bizjournals.com/albuquerque/,Albuquerque Business First,,2000,,America/Denver,newmexico
-thenewmexican,https://www.santafenewmexican.com/,Santa Fe New Mexican,,2000,,America/Denver,newmexico
-source_nm,https://sourcenm.com/,Source New Mexico,,2000,,America/Denver,newmexico
-CrucesSunNews,https://www.lcsun-news.com/,Las Cruces Sun News,,2000,,America/Denver,newmexico
+ABQJournal,https://www.abqjournal.com/,Albuquerque Journal,,2000,,America/Denver,new-mexico
+abqbizfirst,https://www.bizjournals.com/albuquerque/,Albuquerque Business First,,2000,,America/Denver,new-mexico
+thenewmexican,https://www.santafenewmexican.com/,Santa Fe New Mexican,,2000,,America/Denver,new-mexico
+source_nm,https://sourcenm.com/,Source New Mexico,,2000,,America/Denver,new-mexico
+CrucesSunNews,https://www.lcsun-news.com/,Las Cruces Sun News,,2000,40000,America/Denver,new-mexico
 WiStateJournal,https://madison.com/wsj/, Wisconsin State Journal,,2000,,America/Chicago,wisconsin
 journalsentinel,https://www.jsonline.com/,Milwaukee Journal Sentinel,,2000,,America/Chicago,wisconsin
 PostCrescent,https://www.postcrescent.com/,Appleton Post Crescent,,2000,,America/Chicago,wisconsin
